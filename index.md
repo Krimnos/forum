@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Jekyll Disqus Forum
+# Koilos
 
-A simple forum managed by Jekyll and powered by Disqus. Find out more on [github](http://www.github.com/klcodanr/Jekyll-Disqus-Forum).
+A public forum for exchanging views and ideas on the Greek God Hermes.
