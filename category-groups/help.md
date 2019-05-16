@@ -1,11 +1,11 @@
 ---
 layout: category-group
-title: Help
+title: IMAGES
 category-group: true
-summary: Find what you need help with here!
-id: help
+summary: Collected & uploaded images.
+id: IMAGES
 ---
 
-# Help
+# IMAGES
 
-Get help using Jekyll Disqus Forum.
+Images uploaded or collected by users.
