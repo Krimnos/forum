@@ -1,12 +1,12 @@
 ---
 layout: category
-title: General Help
+title: IMAGES
 category: true
-summary: Get help with any aspect of the Jekyll Disqus Forum.
+summary: Images collected & uploaded by fans.
 id: 2736939
-group-id: help
+group-id: contents
 ---
 
-# General help
+# IMAGES
 
-Get help with any aspect of the Jekyll Disqus Forum.
+Images collected & uploaded by fans.
